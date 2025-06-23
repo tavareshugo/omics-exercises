@@ -1,0 +1,24 @@
+# Note: we use the author alias to record author contributions
+# This is a known limitation of CFF files: https://github.com/citation-file-format/citation-file-format/issues/112
+# Suggested author roles are given here: https://cambiotraining.github.io/quarto-course-template/materials/03-authorship.html#author-roles
+
+cff-version: 1.2.0
+title: "Single-cell RNA-seq exercises"
+message: >-
+  You may cite these materials using the metadata in this
+  file. Please cite our materials if you publish materials
+  derived from these, run a workshop using them, or use
+  the information in your own work.
+type: dataset
+authors:
+  - given-names: Hugo
+    family-names: Tavares
+    affiliation: Research Informatics Training, University of Cambridge
+    website: 'https://bioinfotraining.bio.cam.ac.uk/staff/hugo-tavares-phd'
+    orcid: 'https://orcid.org/0000-0001-9373-2726'
+    alias: 'writing - original draft; conceptualisation; software'
+repository-code: "https://github.com/cambiotraining/single-cell-rnaseq-exercises"
+url: "https://cambiotraining.github.io/single-cell-rnaseq-exercises/"
+license: CC-BY-4.0
+commit: "FIX: commit hash"
+date-released: "2025-06-23"
