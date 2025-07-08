@@ -1,0 +1,23 @@
+sample,sra_run,developmental_stage,timepoint
+1_cell,SRR962090,Zygote,1
+2_cell,SRR962091,Cleavage,2
+mpfc_010,SRR962092,Cleavage,3
+mpfc_050,SRR962095,Cleavage,4
+mpfc_100,SRR962098,Early gastrulation,5
+mpfc_150,SRR962101,Early gastrulation,6
+mpfc_200,SRR962106,Mid gastrulation,7
+mpfc_220,SRR962109,Mid gastrulation,8
+mpfc_260,SRR962112,Mid gastrulation,9
+mpfc_300,SRR962116,Late gastrulation,10
+mpfc_340,SRR962119,Late gastrulation,11
+mpfc_400,SRR962127,Early organogenesis,12
+mpfc_410,SRR962129,Early organogenesis,13
+mpfc_450,SRR962133,Early organogenesis,14
+mpfc_490,SRR962134,Mid organogenesis,15
+mpfc_510,SRR962135,Mid organogenesis,16
+mpfc_620,SRR962137,Mid organogenesis,17
+mpfc_700,SRR962140,Late organogenesis,18
+mpfc_750,SRR962141,Late organogenesis,19
+mpfc_800,SRR962143,Terminal differentiation,20
+mpfc_810,SRR962144,Terminal differentiation,21
+mpfc_830,SRR962145,Terminal differentiation,22
