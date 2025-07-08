@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,strandedness
+B6_HFD_3,reads/SRR18057211.fastq.gz,,auto
+B6_HFD_2,reads/SRR18057212.fastq.gz,,auto
+B6_HFD_1,reads/SRR18057213.fastq.gz,,auto
+B6_Chow_3,reads/SRR18057217.fastq.gz,,auto
+B6_Chow_2,reads/SRR18057218.fastq.gz,,auto
+B6_Chow_1,reads/SRR18057219.fastq.gz,,auto
+SV_HFD_3,reads/SRR18057223.fastq.gz,,auto
+SV_HFD_2,reads/SRR18057224.fastq.gz,,auto
+SV_HFD_1,reads/SRR18057225.fastq.gz,,auto
+SV_Chow_3,reads/SRR18057228.fastq.gz,,auto
+SV_Chow_2,reads/SRR18057229.fastq.gz,,auto
+SV_Chow_1,reads/SRR18057230.fastq.gz,,auto
