@@ -24,8 +24,8 @@ plotColData(sce, x="Sample", y="detected") +
     scale_y_log10() + 
     ggtitle("Detected features")
 
-colData(sce) %>% 
-    as.data.frame() %>% 
+colData(sce)  |> 
+    as.data.frame() |> 
     ggplot(aes(x = sum, y = detected)) +
     geom_point()
       
